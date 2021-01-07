@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Title: Personal filter list to avoid paying AdBlock Premium sub
+! Updated: 7 Jan 2021
+! Expires: Never
+! License: GPLv3
+! reference: https://adblockplus.org/filter-cheatsheet
+!
+www.gizmodo.com.au##DIV[class="brightcove-video"]
+www.lifehacker.com.au##DIV[class="brightcove-video-container"]
+www.techradar.com##DIV[class="future__jwplayer--carousel"]
+www.couriermail.com.au##DIV[class="header_ads-container sticky"]
+www.news.com.au##DIV[class="et-container"]
+www.sciencealert.com##DIV[style="margin:20px 0;height:250px;text-align:center;"]
+@@||cdn.publift.com/fuse/tag/2/1058/fuse.js
+@@||commbank.com.au/$document
+npttech
+executivetraveller.com#$#abort-current-inline-script setInterval
