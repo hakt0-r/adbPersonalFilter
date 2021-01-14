@@ -16,6 +16,7 @@ npttech
 executivetraveller.com#$#abort-current-inline-script setInterval
 
 ! 2021-01-14 https://www.news.com.au
+www.news.com.au##.sbrpos-1.sbpos-14.story-block
 www.news.com.au##DIV[class="et-container"]
 www.news.com.au##DIV[class*="-ads-"]
 www.news.com.au##DIV[class*="ad-block"]
