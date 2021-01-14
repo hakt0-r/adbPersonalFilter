@@ -20,3 +20,8 @@ executivetraveller.com#$#abort-current-inline-script setInterval
 www.news.com.au##DIV[class="et-container"]
 www.news.com.au##DIV[class*="-ads-"]
 www.news.com.au##DIV[class*="ad-block"]
+www.news.com.au##div#skip-links
+www.news.com.au##div#group_3_col-410.widget.sidebar-rhc.widget_group_3_col
+www.news.com.au##div#footer-ads
+www.news.com.au##footer#footer
+www.news.com.au#?#div:-abp-has(> div.sticky-half-page)
