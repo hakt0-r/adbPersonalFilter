@@ -7,6 +7,7 @@
 !
 www.gizmodo.com.au##DIV[class="brightcove-video"]
 www.lifehacker.com.au##DIV[class="brightcove-video-container"]
+www.businessinsider.com.au##DIV[class="brightcove-video-container"]
 www.techradar.com##DIV[class="future__jwplayer--carousel"]
 www.couriermail.com.au##DIV[class="header_ads-container sticky"]
 www.sciencealert.com##DIV[style="margin:20px 0;height:250px;text-align:center;"]
